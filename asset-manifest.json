@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Sarvesh-Portfolio/static/css/main.142bbe9c.chunk.css",
-    "main.js": "/Sarvesh-Portfolio/static/js/main.3ab890e9.chunk.js",
-    "main.js.map": "/Sarvesh-Portfolio/static/js/main.3ab890e9.chunk.js.map",
+    "main.js": "/Sarvesh-Portfolio/static/js/main.9962fc1e.chunk.js",
+    "main.js.map": "/Sarvesh-Portfolio/static/js/main.9962fc1e.chunk.js.map",
     "runtime-main.js": "/Sarvesh-Portfolio/static/js/runtime-main.88e2c16b.js",
     "runtime-main.js.map": "/Sarvesh-Portfolio/static/js/runtime-main.88e2c16b.js.map",
     "static/js/2.ee24c2b2.chunk.js": "/Sarvesh-Portfolio/static/js/2.ee24c2b2.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.b7567390.chunk.js": "/Sarvesh-Portfolio/static/js/4.b7567390.chunk.js",
     "static/js/4.b7567390.chunk.js.map": "/Sarvesh-Portfolio/static/js/4.b7567390.chunk.js.map",
     "index.html": "/Sarvesh-Portfolio/index.html",
-    "precache-manifest.02c6ed7c875564bb97b8095b7df575dc.js": "/Sarvesh-Portfolio/precache-manifest.02c6ed7c875564bb97b8095b7df575dc.js",
+    "precache-manifest.6a81593fa719de2c09292c9b852e8499.js": "/Sarvesh-Portfolio/precache-manifest.6a81593fa719de2c09292c9b852e8499.js",
     "service-worker.js": "/Sarvesh-Portfolio/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/Sarvesh-Portfolio/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/Sarvesh-Portfolio/static/css/4.e91a4b36.chunk.css.map",
@@ -37,6 +37,6 @@
     "static/js/runtime-main.88e2c16b.js",
     "static/js/2.ee24c2b2.chunk.js",
     "static/css/main.142bbe9c.chunk.css",
-    "static/js/main.3ab890e9.chunk.js"
+    "static/js/main.9962fc1e.chunk.js"
   ]
 }
