@@ -252,6 +252,25 @@ const bigProjects = {
           url: "https://github.com/Wadi-Sarvesh/P2P-Ridesharing-App-using-Blockchain"
         }
       ]
+    },
+    {
+      image: require("./assets/images/SafeRoute.jpg"),
+      projectName: "SafeRoute Application",
+      projectDesc:
+      [
+      "App that maps covid-19 patients in your city and\n",
+      "shows containment zones with red hotspots on the map fragment.\n",
+      "Finds a safer commute avoiding these containment zones\n",
+      ]
+      ,
+      
+ 
+      footerLink: [
+        {
+          name: "Github",
+          url: "https://github.com/Wadi-Sarvesh/SafeRoute"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -261,8 +280,63 @@ const bigProjects = {
 To know how to get github key look at readme.md */
 
 const openSource = {
-  showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: true // Set false to hide this section, defaults to true
+  showGithubProfile: "false", // Set true or false to show Contact profile using Github, defaults to true
+  projects: [
+    {
+      image: require("./assets/images/Google meet.png"),
+      projectName: "Self Attendance Bot",
+      projectDesc: "A Fully Automated python program which opens meet link, automatically joins lecture according to college schedule and marks present through playing a recorded voice on mic!",
+      footerLink: [
+        {
+          name: "Checkout the Demo!",
+          url: "https://www.linkedin.com/posts/sarvesh-wadi-546531186_programming-python-coding-activity-6721649520037371904-FhGh"
+        },
+        {
+          name: "Watch Tutorial",
+          url: "https://medium.com/analytics-vidhya/google-meet-self-attendance-bot-sarvesh-wadi-a62978bb06f6"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/P2P App.png"),
+      projectName: "Peer to Peer Ride-Sharing using Blockchain App",
+      projectDesc:
+      ["A ridesharing service-providing app like Uber but decentralized!\n",
+      "Blockchain based android app connecting drivers and users.\n",
+      "Users can request for a shared ride with others hassle free though the app.\n",
+      ]
+      ,
+      
+ 
+      footerLink: [
+        {
+          name: "Github",
+          url: "https://github.com/Wadi-Sarvesh/P2P-Ridesharing-App-using-Blockchain"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/SafeRoute.jpg"),
+      projectName: "SafeRoute Application",
+      projectDesc:
+      [
+      "App that maps covid-19 patients in your city and\n",
+      "shows containment zones with red hotspots on the map fragment.\n",
+      "Finds a safer commute avoiding these containment zones\n",
+      ]
+      ,
+      
+ 
+      footerLink: [
+        {
+          name: "Github",
+          url: "https://github.com/Wadi-Sarvesh/SafeRoute"
+        }
+      ]
+    }
+  ],
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on
