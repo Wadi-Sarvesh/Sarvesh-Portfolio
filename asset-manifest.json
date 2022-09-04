@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Sarvesh-Portfolio/static/css/main.142bbe9c.chunk.css",
-    "main.js": "/Sarvesh-Portfolio/static/js/main.7ab65ca6.chunk.js",
-    "main.js.map": "/Sarvesh-Portfolio/static/js/main.7ab65ca6.chunk.js.map",
-    "runtime-main.js": "/Sarvesh-Portfolio/static/js/runtime-main.9498e966.js",
-    "runtime-main.js.map": "/Sarvesh-Portfolio/static/js/runtime-main.9498e966.js.map",
-    "static/js/2.5c76420f.chunk.js": "/Sarvesh-Portfolio/static/js/2.5c76420f.chunk.js",
-    "static/js/2.5c76420f.chunk.js.map": "/Sarvesh-Portfolio/static/js/2.5c76420f.chunk.js.map",
+    "main.js": "/Sarvesh-Portfolio/static/js/main.8be0036a.chunk.js",
+    "main.js.map": "/Sarvesh-Portfolio/static/js/main.8be0036a.chunk.js.map",
+    "runtime-main.js": "/Sarvesh-Portfolio/static/js/runtime-main.781bde0d.js",
+    "runtime-main.js.map": "/Sarvesh-Portfolio/static/js/runtime-main.781bde0d.js.map",
+    "static/js/2.2641ca23.chunk.js": "/Sarvesh-Portfolio/static/js/2.2641ca23.chunk.js",
+    "static/js/2.2641ca23.chunk.js.map": "/Sarvesh-Portfolio/static/js/2.2641ca23.chunk.js.map",
     "static/css/3.df879eac.chunk.css": "/Sarvesh-Portfolio/static/css/3.df879eac.chunk.css",
-    "static/js/3.596171af.chunk.js": "/Sarvesh-Portfolio/static/js/3.596171af.chunk.js",
-    "static/js/3.596171af.chunk.js.map": "/Sarvesh-Portfolio/static/js/3.596171af.chunk.js.map",
+    "static/js/3.e8248f69.chunk.js": "/Sarvesh-Portfolio/static/js/3.e8248f69.chunk.js",
+    "static/js/3.e8248f69.chunk.js.map": "/Sarvesh-Portfolio/static/js/3.e8248f69.chunk.js.map",
     "static/css/4.e91a4b36.chunk.css": "/Sarvesh-Portfolio/static/css/4.e91a4b36.chunk.css",
-    "static/js/4.f9f21e71.chunk.js": "/Sarvesh-Portfolio/static/js/4.f9f21e71.chunk.js",
-    "static/js/4.f9f21e71.chunk.js.map": "/Sarvesh-Portfolio/static/js/4.f9f21e71.chunk.js.map",
+    "static/js/4.5de810b4.chunk.js": "/Sarvesh-Portfolio/static/js/4.5de810b4.chunk.js",
+    "static/js/4.5de810b4.chunk.js.map": "/Sarvesh-Portfolio/static/js/4.5de810b4.chunk.js.map",
     "index.html": "/Sarvesh-Portfolio/index.html",
-    "precache-manifest.12edb16c001ea23f00fb5cee5b6822e4.js": "/Sarvesh-Portfolio/precache-manifest.12edb16c001ea23f00fb5cee5b6822e4.js",
+    "precache-manifest.b3fd81be786afcf6cdfef6a76e19c51e.js": "/Sarvesh-Portfolio/precache-manifest.b3fd81be786afcf6cdfef6a76e19c51e.js",
     "service-worker.js": "/Sarvesh-Portfolio/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/Sarvesh-Portfolio/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/Sarvesh-Portfolio/static/css/4.e91a4b36.chunk.css.map",
     "static/css/main.142bbe9c.chunk.css.map": "/Sarvesh-Portfolio/static/css/main.142bbe9c.chunk.css.map",
-    "static/js/2.5c76420f.chunk.js.LICENSE.txt": "/Sarvesh-Portfolio/static/js/2.5c76420f.chunk.js.LICENSE.txt",
+    "static/js/2.2641ca23.chunk.js.LICENSE.txt": "/Sarvesh-Portfolio/static/js/2.2641ca23.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Sarvesh-Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Google meet.png": "/Sarvesh-Portfolio/static/media/Google meet.b8c5089e.png",
     "static/media/MPdeo.jpg": "/Sarvesh-Portfolio/static/media/MPdeo.117c16f1.jpg",
@@ -35,9 +35,9 @@
     "static/media/trophy.png": "/Sarvesh-Portfolio/static/media/trophy.c5a6dc73.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9498e966.js",
-    "static/js/2.5c76420f.chunk.js",
+    "static/js/runtime-main.781bde0d.js",
+    "static/js/2.2641ca23.chunk.js",
     "static/css/main.142bbe9c.chunk.css",
-    "static/js/main.7ab65ca6.chunk.js"
+    "static/js/main.8be0036a.chunk.js"
   ]
 }
