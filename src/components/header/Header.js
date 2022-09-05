@@ -22,7 +22,7 @@ function Header() {
   const viewAchievement = achievementSection.display;
   const viewBlog = blogSection.display;
   const viewTalks = talkSection.display;
-  const viewBigPorjects = bigProjects.display;
+  const viewBigProjects = bigProjects.display;
 
   return (
     <Headroom>
@@ -46,6 +46,11 @@ function Header() {
               <a href="#skills">Skills</a>
             </li>
           )}
+          {viewBigProjects && (
+            <li>
+              <a href="#projects">Big Projects</a>
+            </li>
+          )}
           {viewExperience && (
             <li>
               <a href="#experience">Work Experiences</a>
@@ -56,11 +61,7 @@ function Header() {
               <a href="#opensource">Open Source</a>
             </li>
           )}
-          {viewBigPorjects && (
-            <li>
-              <a href="#projects">Big Projects</a>
-            </li>
-          )}
+          
           {viewAchievement && (
             <li>
               <a href="#achievements">Achievements</a>
