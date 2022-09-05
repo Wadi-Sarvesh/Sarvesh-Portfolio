@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ffa9b7fec6be4177c19aa1080e945d1",
+    "revision": "ce2a742780ceb654dfe85875d2782d90",
     "url": "/Sarvesh-Portfolio/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Sarvesh-Portfolio/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "e58d7c40b651284b7bcf",
+    "revision": "0001b83a607a8772f8ad",
     "url": "/Sarvesh-Portfolio/static/css/main.142bbe9c.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Sarvesh-Portfolio/static/js/4.5de810b4.chunk.js"
   },
   {
-    "revision": "e58d7c40b651284b7bcf",
-    "url": "/Sarvesh-Portfolio/static/js/main.fec02ee9.chunk.js"
+    "revision": "0001b83a607a8772f8ad",
+    "url": "/Sarvesh-Portfolio/static/js/main.c9842326.chunk.js"
   },
   {
     "revision": "651f27bfdb5a7e0765c4",
