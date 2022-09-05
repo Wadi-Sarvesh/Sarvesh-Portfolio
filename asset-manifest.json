@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Sarvesh-Portfolio/static/css/main.142bbe9c.chunk.css",
+    "main.js": "/Sarvesh-Portfolio/static/js/main.8e1d7183.chunk.js",
+    "main.js.map": "/Sarvesh-Portfolio/static/js/main.8e1d7183.chunk.js.map",
+    "runtime-main.js": "/Sarvesh-Portfolio/static/js/runtime-main.781bde0d.js",
+    "runtime-main.js.map": "/Sarvesh-Portfolio/static/js/runtime-main.781bde0d.js.map",
+    "static/js/2.3f15c26d.chunk.js": "/Sarvesh-Portfolio/static/js/2.3f15c26d.chunk.js",
+    "static/js/2.3f15c26d.chunk.js.map": "/Sarvesh-Portfolio/static/js/2.3f15c26d.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/Sarvesh-Portfolio/static/css/3.df879eac.chunk.css",
+    "static/js/3.e8248f69.chunk.js": "/Sarvesh-Portfolio/static/js/3.e8248f69.chunk.js",
+    "static/js/3.e8248f69.chunk.js.map": "/Sarvesh-Portfolio/static/js/3.e8248f69.chunk.js.map",
+    "static/css/4.e91a4b36.chunk.css": "/Sarvesh-Portfolio/static/css/4.e91a4b36.chunk.css",
+    "static/js/4.5de810b4.chunk.js": "/Sarvesh-Portfolio/static/js/4.5de810b4.chunk.js",
+    "static/js/4.5de810b4.chunk.js.map": "/Sarvesh-Portfolio/static/js/4.5de810b4.chunk.js.map",
+    "index.html": "/Sarvesh-Portfolio/index.html",
+    "precache-manifest.6e6fad103336763b90844f221cd93314.js": "/Sarvesh-Portfolio/precache-manifest.6e6fad103336763b90844f221cd93314.js",
+    "service-worker.js": "/Sarvesh-Portfolio/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/Sarvesh-Portfolio/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.e91a4b36.chunk.css.map": "/Sarvesh-Portfolio/static/css/4.e91a4b36.chunk.css.map",
+    "static/css/main.142bbe9c.chunk.css.map": "/Sarvesh-Portfolio/static/css/main.142bbe9c.chunk.css.map",
+    "static/js/2.3f15c26d.chunk.js.LICENSE.txt": "/Sarvesh-Portfolio/static/js/2.3f15c26d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Sarvesh-Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Google meet.png": "/Sarvesh-Portfolio/static/media/Google meet.b8c5089e.png",
+    "static/media/MPdeo.jpg": "/Sarvesh-Portfolio/static/media/MPdeo.1850ebb9.jpg",
+    "static/media/P2P App.png": "/Sarvesh-Portfolio/static/media/P2P App.c1c797a3.png",
+    "static/media/SafeRoute.jpg": "/Sarvesh-Portfolio/static/media/SafeRoute.c5c6a069.jpg",
+    "static/media/Snowflake.png": "/Sarvesh-Portfolio/static/media/Snowflake.8ee37652.png",
+    "static/media/contactMailDark.svg": "/Sarvesh-Portfolio/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/Sarvesh-Portfolio/static/media/developerActivity.59389695.svg",
+    "static/media/hackathon.jpg": "/Sarvesh-Portfolio/static/media/hackathon.261c4288.jpg",
+    "static/media/manOnTable.svg": "/Sarvesh-Portfolio/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "/Sarvesh-Portfolio/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/Sarvesh-Portfolio/static/media/talksCardBack.13780cdd.svg",
+    "static/media/trophy.png": "/Sarvesh-Portfolio/static/media/trophy.c5a6dc73.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.781bde0d.js",
+    "static/js/2.3f15c26d.chunk.js",
+    "static/css/main.142bbe9c.chunk.css",
+    "static/js/main.8e1d7183.chunk.js"
+  ]
+}
