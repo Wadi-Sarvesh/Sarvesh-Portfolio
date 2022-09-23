@@ -136,7 +136,7 @@ const educationInfo = {
       descBullets: [
         "CGPA: 8.86",
         "Core Android Developer at TRF Robosoft",
-        "Published a Research Paper : Production of Fungicide using Papaya Leaves at International Journal of Scientific Research and Review(IJSRR)"
+        "Published a Research Paper : P2P Ride-Sharing using Blockchain Technology at International Journal of Engineering Research and Technology (IJERT)"
       ]
     },
     {
