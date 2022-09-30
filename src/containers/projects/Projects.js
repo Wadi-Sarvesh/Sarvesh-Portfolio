@@ -16,7 +16,7 @@ export default function Projects() {
 
   useEffect(() => {
     const getRepoData = () => {
-      fetch("https://github.com/Wadi-Sarvesh/Sarvesh-Portfolio/blob/gh-pages/profile.json")
+      fetch("./profile.json")
         .then(result => {
           if (result.ok) {
             return result.json();
