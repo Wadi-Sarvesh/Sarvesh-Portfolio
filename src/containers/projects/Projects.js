@@ -17,7 +17,7 @@ export default function Projects() {
   useEffect(() => {
     const getRepoData = () => {
 
-      fetch("Sarvesh-Portfolio/profile.json")
+      fetch("/Sarvesh-Portfolio/profile.json")
  
 
         .then(result => {
