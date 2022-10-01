@@ -18,8 +18,6 @@ export default function Projects() {
     const getRepoData = () => {
 
       fetch("/Sarvesh-Portfolio/profile.json")
- 
-
         .then(result => {
           if (result.ok) {
             return result.json();
