@@ -26,7 +26,7 @@ const greeting = {
     "Passionate Full Stack Software Developer 🚀 Experienced in building Web and Mobile applications with Android-Native / Springboot / J2EE and some other cool libraries and frameworks in Python / C++."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/12D8CRs1yec4Llqde04yfEC41EEgIicZx/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1OIdACKtQEIqvi70Jjq39IaLgNO6ZYDBR/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
